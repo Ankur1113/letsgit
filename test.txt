@@ -1,6 +1,4 @@
 My name is Ankur
-<<<<<<< HEAD
-=======
 My name is bhargavi
->>>>>>> dev
+
 
